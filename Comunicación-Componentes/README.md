@@ -1,0 +1,1 @@
+Envio de información del componente padre al componente hijo por medio de propiedades

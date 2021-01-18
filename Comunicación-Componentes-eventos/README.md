@@ -1,0 +1,1 @@
+Envio de información del componente hijo al componente padre por medio de eventos
